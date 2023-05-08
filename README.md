@@ -6,13 +6,14 @@ CheapFlight is a web application that helps you find the cheapest flight fares f
 
 1. Install the necessary dependencies by running the following command:
 
-npm i --save
+
+`npm i --save`
 
 2. Once the dependencies are installed, start the application by running:
 
-npm start
+`npm start`
 
-3. Open your browser and go to `http://localhost:3000/access/login`.
+3. Open your browser and go to [http://localhost:3000/access/login](http://localhost:3000/access/login).
 
 4. Enter your login credentials to access the application:
 - Username: `username`
